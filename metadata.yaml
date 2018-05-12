@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6045
     wikipedia: http://en.wikipilipinas.org/index.php?title=Trinidad_Pardo_De_Tavera
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15633#Etimolog-a-de-los-Nombres-de-Razas-de-Filipinas
 gutenberg_issued: '2005-04-16'
 gutenberg_type: Text
 identifiers:
