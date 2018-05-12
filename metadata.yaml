@@ -1,0 +1,32 @@
+_repo: Etimolog-a-de-los-Nombres-de-Razas-de-Filipinas_15633
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pardo de Tavera, T. H. (Trinidad Hermenegildo)
+    aliases:
+    - Tavera, Trinidad Hermenegildo Pardo de
+    - De Tavera, T. H. Pardo (Trinidad Hermenegildo Pardo)
+    - Tavera, T. H. Pardo de (Trinidad Hermenegildo Pardo)
+    birthdate: 1857
+    deathdate: 1925
+    gutenberg_agent_id: '6045'
+    url: http://www.gutenberg.org/2009/agents/6045
+    wikipedia: http://en.wikipilipinas.org/index.php?title=Trinidad_Pardo_De_Tavera
+description: ''
+gutenberg_issued: '2005-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15633'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Ethnology -- Philippines'
+- !lcc 'PL'
+title: Etimología de los Nombres de Razas de Filipinas
+url: http://www.gutenberg.org/ebooks/15633
